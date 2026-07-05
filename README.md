@@ -31,6 +31,12 @@ This project is an interactive HR Analytics Dashboard built using Microsoft Powe
 - Top Performing Departments
 - Interactive Slicers
 
+## Key Performance Indicators (KPIs)
+- 👥 Total Employees: 500
+- 💰 Average Salary: 73.62K
+- 📉 Attrition Rate: 17.20%
+- ⭐ Average Experience: 7.70 Years
+  
 ## Key Insights
 - Total Employees: 500
 - Attrition Rate: 17.2%
