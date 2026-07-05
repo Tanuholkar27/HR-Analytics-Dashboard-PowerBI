@@ -4,6 +4,9 @@ Interactive HR Analytics Dashboard built using Power BI to analyze employee perf
 ## Project Overview
 This project is an interactive HR Analytics Dashboard built using Microsoft Power BI.
 
+## Dashboard Preview
+![HR Analytics Dashboard](HR Analytics.png)
+
 ## Objectives
 - Analyze employee data
 - Monitor attrition
