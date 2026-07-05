@@ -1,7 +1,5 @@
 # HR-Analytics-Dashboard-PowerBI
-Interactive HR Analytics Dashboard built using Power BI to analyze employee performance, attrition, sa;ary distribution, and workforce insights.
-
-# HR Analytics Dashboard using Power BI
+Interactive HR Analytics Dashboard built using Power BI to analyze employee performance, attrition, salary distribution, and workforce insights.
 
 ## Project Overview
 This project is an interactive HR Analytics Dashboard built using Microsoft Power BI.
